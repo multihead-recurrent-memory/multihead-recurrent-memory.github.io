@@ -1,0 +1,6 @@
+/Recurrent_Memory__Preprint_/
+/.template-reference/
+/.local-tools/
+/test-results/
+__pycache__/
+.DS_Store
